@@ -1,5 +1,6 @@
 # Week 0 — Billing and Architecture
 
+[source](https://www.youtube.com/watch?v=8b8SvQHc4Pk&list=PLBfufR7vyJJ7k25byhRXJldB5AiwgNnWv)
 ## Required Homework/Tasks
 
 ### Install and Verify AWS CLI 
