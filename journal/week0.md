@@ -37,6 +37,10 @@ I did not create a second Budget because I was concerned of budget spending goin
 
 ![Image of The Budget Alarm I Created](assets/budget-alarm.png) 
 
+I created a subscription supply for the TopicARN and Email
+
+![Create SNS Topic](assets/sns-billing-alarm.png)
+
 ### Recreate Logical Architectural Deisgn
 
 First, I create a diagram on a real napkin. No one wants a forgotten idea.
